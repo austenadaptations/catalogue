@@ -16,9 +16,9 @@
 title: Austen Adaptations
 email: igareeboo@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An Ongoing Project Cataloguing Adaptations of Jane Austen's Corpus
+  An Ongoing Catalogue of Austen Adaptations
 baseurl: "/Austen_Adaptations" # the subpath of your site, e.g. /blog
-url: "https://imangareeboo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://austenadaptations.github.io/catalogue" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
